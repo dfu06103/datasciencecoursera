@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Course Project: Setting up accounts
+Course Project: Setting up accounts 
